@@ -1,5 +1,5 @@
 # heartdisease-classification
-The system uses 6 medical parameters such as age, sex, trestbps, cholesterol, thalach and oldpeak for prediction. The model predicts the likelihood of patients getting heart disease using classification.
+The system uses 6 medical parameters such as age, sex, trestbps, cholesterol, thalach and oldpeak for prediction. The model predicts the likelihood of patients getting heart disease using classification i.e whether he is a heart patient or not.
 
 
 
